@@ -1,0 +1,87 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veggie Stew",
+      "ingredients": ["1 Carrot", "1 Leek", "200g Tofu", "300ml Veg stock"],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "45 minutes",
+      "img": "https://yupitsvegan.com/wp-content/uploads/2020/05/hearty-vegetable-stew-2.jpg",
+      "video": "https://youtu.be/zIGnABp1h8c"
+    },
+    {
+      "id": "2",
+      "title": "ICE CREM",
+      "ingredients": [
+        "milk 600",
+        "cream 75",
+        "sugar 250",
+        "vanillin 0.1",
+        "eggs 3."
+      ],
+      "method": "Ice cream is a sweet dessert made from eggs, cream or various fruits. Ice cream requires first the preparation of the main ingredient combination and the process of freezing the combination",
+      "cookingTime": "35 minutes",
+      "img": "https://yuz.uz/imageproxy/1200x/https://yuz.uz/file/news/f50ef9ebe7983a8353c4cd019a01462e.jpg",
+      "video": "https://youtu.be/_RCxQ5eytSw"
+    },
+    {
+      "id": "3",
+      "title": "Greek Salad",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+      "cookingTime": "35 minutes",
+      "img": "https://www.unicornsinthekitchen.com/wp-content/uploads/2019/01/Greek-Salad-.jpg",
+      "video": "https://youtu.be/j7rU-1-s7NM"
+    },
+    {
+      "id": "4",
+      "title": "Cake",
+      "ingredients": [
+        "6 medium-sized eggs",
+        "130 grams of flour",
+        " 210 grams of sugar and vanilla ",
+        "(or 10 grams of vanilla sugar)"
+      ],
+      "method": "A cake (Italian: torta / Latin: torta, round bread) is a confectionery product consisting of several cakes soaked in cream or jam. The top of the cake is usually decorated with cream, icing or fruit.",
+      "img": "https://frankfurt.apollo.olxcdn.com/v1/files/33j9z6qymjuz-UZ/image;s=838x1280",
+      "video": "https://youtu.be/rR97W9YlWaU"
+    },
+    {
+      "id": "5",
+      "title": "Veggie Pizza",
+      "ingredients": [
+        "1 Base",
+        "Tomata pasata",
+        "1 Green pepper",
+        "100g Mushrooms"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "35 minutes",
+      "img": "https://www.splashoftaste.com/wp-content/uploads/2022/11/vegetarian-pizza-featured-500x375.jpg",
+      "video": "https://youtu.be/TBrz3chSss0"
+    },
+    {
+      "id": "6",
+      "title": "Suspicious salad",
+      "ingredients": [
+        "Salted herring - 2 pcs",
+        "  Beet - 2 medium sized",
+        "  Potatoes - 2-3 medium sized",
+        "Carrot - 1 pc",
+        "  Eggs - 2",
+        "Mayonnaise - according to taste",
+        " Salt, pepper"
+      ],
+      "method": "Salted herring is divided into fillets, that is, the meat is separated from the bones. Then the fillet is cut into small cubes.Onion is peeled and finely chopped (you can also grind it in a blender, only with control that it does not turn into porridge). Boiling water is poured and rinsed to remove bitterness.",
+      "cookingTime": "35 minutes",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEXYnouXtEOKzqIHL9FKSJ6HtdrzNAKTRvmVUpJO-AuDee9TYNFQH7RX6QILh33Kfa4h0&usqp=CAU",
+      "video": "https://youtu.be/KeW-B8E9Rzs"
+    }
+  ]
+}
